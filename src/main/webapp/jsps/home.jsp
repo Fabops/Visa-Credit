@@ -9,7 +9,7 @@
 </head>
 </head>
 <body>
-<h1 align="left">Welcome to Landmark Solutions Class28 Team30 Test Pipeline for Tomcat App Server Deployment</h1>
+<h1 align="left">Welcome to Landmark Solutions Class28 Team30 Test Pipeline</h1>
 	<h1 align="center">Welcome to Landmark Software Solutions Class28 Team30!</h1>
 	<h1 align="center">A new perspertive leveraging untapped intellectual property all over Africa to create solutions for a better world!!</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
