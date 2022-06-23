@@ -20,9 +20,9 @@
 	<h2 align="center">By developing and supporting quality  Software Solutions to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h2>
 	
-	<h1 align="center">Thank you for considering our team for all your software feature improvemnt needs!</h1>
+	<h3 align="center">Thank you for considering our team for all your software feature improvemnt needs!</h3>
 	
-	<h1 align="center">See list of our global partners</h1>
+	<h3 align="center">See list of our global partners</h3>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
