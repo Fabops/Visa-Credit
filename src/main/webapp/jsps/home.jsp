@@ -9,7 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Software Solutions, Virginia, USA Office.</h1>
+<h1 align="center">Welcome to Landmark Software Solutions Class28 Team30!</h1>
+	<h1 align="center">A new perspertive leveraging untapped intellectual property all over Africa to create solutions for a better world!!</h1>
 <h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
 	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
 <hr>
