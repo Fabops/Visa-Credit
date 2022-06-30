@@ -13,7 +13,8 @@
 	<h1 align="left">Welcome to Landmark. The place for software solutions to everyday problems/h1>
 		<h1 align="left"> DAOs and Incubators build by africans for the World</h1>
 		
-		<h1 align="left"> Differentiator?</h1>
+		<h1 align="left"> Why US?</h1>
+				<h1 align="left"> Why not us? It's our time</h1>
 	<h2 align="center">A new perspertive leveraging untapped intellectual property all over Africa to create solutions for a better world!!</h2>
 			
 		<h1 align="left"> How?</h1>
